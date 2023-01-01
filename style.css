@@ -1,0 +1,8 @@
+*{
+box-sizing: border-box;
+}
+.paragraf{
+ display: inline-block;
+ background-color: rgb(249, 249, 0);
+ font-weight: bold;
+}
